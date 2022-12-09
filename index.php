@@ -1,0 +1,1 @@
+<?php echo "Welcome to Husk Root API Service. Methods accepted include POST, GET, DELETE, OPTIONS. Thank you." ?>
